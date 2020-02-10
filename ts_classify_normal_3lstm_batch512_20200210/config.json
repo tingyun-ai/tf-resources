@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "http://git.tingyun.com/lihb/tf-resources/raw/master/ts_classify_normal_3lstm_batch512_20200210/vecs.tsv",
+      "metadataPath": "http://git.tingyun.com/lihb/tf-resources/raw/master/ts_classify_normal_3lstm_batch512_20200210/meta.tsv",
+      "sprite": {
+        "imagePath": "http://git.tingyun.com/lihb/tf-resources/raw/master/ts_classify_normal_3lstm_batch512_20200210/sprite.png",
+        "singleImageDim": [
+          72,
+          24
+        ]
+      }
+    }
+  ]
+}
