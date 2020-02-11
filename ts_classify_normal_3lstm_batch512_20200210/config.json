@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        2601,
+        32
       ],
       "tensorPath": "https://raw.githubusercontent.com/tingyun-ai/tf-resources/master/ts_classify_normal_3lstm_batch512_20200210/vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/tingyun-ai/tf-resources/master/ts_classify_normal_3lstm_batch512_20200210/meta.tsv",
