@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Ts classify",
       "tensorShape": [
         2601,
         32
